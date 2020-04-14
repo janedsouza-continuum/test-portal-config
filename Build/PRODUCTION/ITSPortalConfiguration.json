@@ -97,7 +97,7 @@
   "cloneManagementEnabled": "1",
   "portalPlatformDesignDevicesGA": "1",
   "platformLayoutConfig": {
-        "featureToggleConfig": {
+        "featureToggleConfig": 
             "IntegrationsEnabled": "0",
             "CloneManagementEnabled": "1",
             "ThirdPartyRealTimeUpdatesEnabled": "1",
